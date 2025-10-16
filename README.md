@@ -53,7 +53,10 @@ chmod +x lamp-setup.sh
 ```bash
 sudo ./lamp-setup.sh
 ```
+## Author
 
+**Saeedullah Shaikh**
+- GitHub: [@Saeedullahshaikh](https://github.com/Saeedullahshaikh)
 ---
 
 ## 🏁 Summary
